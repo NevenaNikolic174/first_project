@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Stargazing</title>
+        <link>https://stargazing-web.000webhostapp.com/</link>
+        <description>Site about stars</description>
+      <item>
+        <title>Log-in</title>
+        <link>https://stargazing-web.000webhostapp.com/prijava.html</link>
+        <description>Log-in on site</description>
+      </item>
+      <item>
+        <title>Registration</title>
+        <link>https://stargazing-web.000webhostapp.com/registracija.html</link>
+        <description>Registration on site</description>
+      </item>
+      <item>
+        <title>About us</title>
+        <link>https://stargazing-web.000webhostapp.com/autor.html</link>
+        <description>About the author of this site</description>
+    </item>
+    </channel>
+</rss>
